@@ -8,19 +8,63 @@
 
 ## My projects and the overview of the project and my role in the projects
 ### SEEKRZ
-- The app is about buying and selling the items like 👉🏻 [🧥,🥼,👖,🩳,🩴,👠,👞,👟,👡,🥾,🧢].
-- Users can register in the app and add items for sell, make offers on other user’s items and discuss the offer with the use of chat in the App.
-- user can do a trade for the items in the application.
-- Started the work by creating the project structure and deployment of the application on the App Store as well as on the App Store.
-- If you want to check my work, you can cheeck it on the live application, please refer this links 👉🏻 [SEEKRZ iOS](https://apps.apple.com/us/app/seekrz-buy-sell-streetwear/id1496295519) , [SEEKRZ Android](https://play.google.com/store/apps/details?id=com.swappitinc.swappit&pcampaignid=web_share) , [SEEKRZ Store ios](https://apps.apple.com/us/app/seekrz-stores/id1625261820)
+- The app I've been involved in centers around facilitating buying and selling various items such as Clothing[🧥,🥼,👖,🩳], Accessories[🧢] and Footwear [🩴,👞,👠,👟,👡,🥾].
+- Users have the capability to register within the app, enabling them to list their items for sale.
+- Moreover, they can make offers on items listed by other users and engage in discussions regarding these offers through an in-app chat feature.
+- One standout feature of the app is its provision for users to engage in trades, allowing for item exchanges within the application itself.
+- My involvement commenced with establishing the foundational structure of the project, setting up the groundwork for its functionality.
+- Additionally, I oversaw the deployment of the application on both the App Store and Google Play Store, ensuring accessibility for a broader user base across multiple platforms.
+- This application aims to provide a convenient and interactive platform for users to buy, sell, and trade a variety of items while fostering communication through the in-app chat, ultimately enhancing the overall user experience.
+- If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [SEEKRZ iOS](https://apps.apple.com/us/app/seekrz-buy-sell-streetwear/id1496295519) , [SEEKRZ Android](https://play.google.com/store/apps/details?id=com.swappitinc.swappit&pcampaignid=web_share) , [SEEKRZ Store ios](https://apps.apple.com/us/app/seekrz-stores/id1625261820)
+
+### SCALE-EVV
+- If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻[SCALE iOS](https://apps.apple.com/in/app/scale-evv/id1530152802) , [SCALE Android](https://play.google.com/store/apps/details?id=indagale.scaleevv.app&pcampaignid=web_share)
+
+### SAURASHTRA NI RASDHARA
+- The application I've been involved with is akin to YouTube but with a localized focus on showcasing the talent of singers from Gujarat, India.
+- It's a platform dedicated exclusively to highlighting the musical prowess and performances of local singers within the Gujarat region.
+- Users can expect a diverse array of musical content, including performances, compositions, and covers from famous singers hailing from Gujarat region.
+- The platform aims to provide a stage specifically tailored to promote and celebrate the rich musical heritage and talent present in this particular Indian region.
+- Users can interact with videos posted on the platform by following creators and expressing appreciation through likes.
+- Beyond video content, the app also serves as a repository for literature enthusiasts by offering a wide array of free books.
+- Users can read these books within the application, providing a diverse and accessible library catering to various interests and genres.
+- Additionally, the app provides information about upcoming events, including their locations and directions, allowing users to seamlessly plan their attendance.
+- My involvement in this project encompasses creating an interactive space where users can not only engage with video content, follow creators, and appreciate content through likes but also access a wealth of literature free of charge.
+- If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻[Saurashtra Ni Rasdhara Android](https://play.google.com/store/apps/details?id=com.rasdhara&pcampaignid=web_share)
 
 ### HEIRLIST
-- The app is about to gather the information of the dead person.
-- Family members will register in the app and will give the answer to the questions about the dead person to get a report about that dead person.
-- Started the work by creating the project structure, worked on the complex UI and In App Purchase functionality.
-- If you want to check my work, you can check it on the live on the live application, please refer this links 👉🏻 [HEIRLIST iOS](https://apps.apple.com/in/app/heirlist/id1517622593) , [HEIRLIST Android](https://play.google.com/store/apps/details?id=com.chiefinnovation.heirlist&pcampaignid=web_share)
+- The application I've been working on serves as a platform for gathering information about deceased individuals.
+- It's designed for family members who register on the app and provide specific details about the deceased person, enabling them to receive a detailed report.
+- My involvement in this project began with establishing the project's structure and laying the groundwork for its functionality and organization.
+- As the project evolved, I focused on crafting a sophisticated user interface and ensuring it became the best user experience.
+- Additionally, I implemented the In-App Purchase feature, potentially offering users access to additional services or features within the app.
+- If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [HEIRLIST iOS](https://apps.apple.com/in/app/heirlist/id1517622593) , [HEIRLIST Android](https://play.google.com/store/apps/details?id=com.chiefinnovation.heirlist&pcampaignid=web_share)
 
+### CHALLENGER
+- The application focuses on facilitating sports enthusiasts in finding match opponents and issuing challenges seamlessly.
+- Users can locate opponents through the app, booking a pitch or venue directly within the platform.
+- Once booked, the confirmation process involves the admin, ensuring a smooth transition to the match.
+- I've taken on a solo role, primarily focusing on enhancing the user experience by implementing a countdown timer for matches.
+- This feature aims to create anticipation and excitement leading up to the game, adding an element of thrill for participants.
+- I've dedicated efforts towards developing the chat module and integrating it using API functionalities.
+- This allows users to communicate efficiently, discussing match details, and strategies, and coordinating game logistics.
+- Furthermore, to broaden accessibility, I've enabled support for multiple languages—English and Arabic—tailoring the app's interface based on the user's language preference.
+- This enhancement enhances user inclusivity, ensuring a comfortable and personalised experience irrespective of language differences.
 
+### JAIMACA - Tours and Travels
+- This application is specifically developed to facilitate taxi services within Jamaica.
+- It aims to provide an efficient and convenient means for locals and tourists alike to easily book, track, and utilize taxi services across various locations in Jamaica.
+- The app could offer features such as GPS-enabled location services, fare estimates, secure payment options, multiple language support, and a user-friendly interface.
+- Its goal is to enhance transportation accessibility and reliability for individuals navigating Jamaica's cities and towns.
+  
+### SQL
+- The core focus of this app revolves around the efficient management of database files, specifically in formats like .db or .sql.
+- It empowers users to import these files directly into the application, facilitating the editing of their data seamlessly.
+- Furthermore, users have the flexibility to make modifications and subsequently export these changes in various formats, ensuring compatibility and accessibility.
+- One of the key functionalities lies in allowing users to create a localized asynchronous storage database within the app, meticulously structuring it with proper relationships.
+- This feature provides users with a platform to organize and manage their data effectively, ensuring relationships between different elements within the database are well-maintained.
+- In essence, this application serves as a versatile tool for handling and manipulating database files, offering users the ability to import, edit, and export data across different formats while also enabling the creation of local storage databases with structured relationships to streamline data management processes.
+- If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [SQL Android](https://play.google.com/store/apps/details?id=com.moontechnolabs.SqliteEditor&pcampaignid=web_share)
 
 <!---
 8140375530/8140375530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
