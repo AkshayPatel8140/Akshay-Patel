@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Akshay Patel
 - 🇮🇳 I'm Indian
-<!-- - 🏠 I'm from Ahmedabad which is the best city of the Gujarat state -->
 - 👀 I’m React-Native developer
 - 🌱 I’m currently learning TypeScript
 - 📫 You can connect me by send me the mail on the my [Email](akshagpatel1997@gmail.com)
+<!-- - 🏠 I'm from Ahmedabad which is the best city of the Gujarat state -->
 
 
 ## My projects and the overview of the project and my role in the projects
@@ -65,6 +65,68 @@
 - This feature provides users with a platform to organize and manage their data effectively, ensuring relationships between different elements within the database are well-maintained.
 - In essence, this application serves as a versatile tool for handling and manipulating database files, offering users the ability to import, edit, and export data across different formats while also enabling the creation of local storage databases with structured relationships to streamline data management processes.
 - If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [SQL Android](https://play.google.com/store/apps/details?id=com.moontechnolabs.SqliteEditor&pcampaignid=web_share)
+
+## Certificates
+
+<details>
+    <summary>Python Training(2019)</summary>
+    <IMG src="./src/2.jpg"/>
+</details>
+<details>
+    <summary>Web Design Internship(2017)</summary>
+    <!-- <IMG src="3.jpg" width="50%"/> -->
+    <IMG src="./src/3.jpg"/>
+</details>
+<details>
+    <summary>Employee Of the Month(2020)</summary>
+    <IMG src="./src/4.jpg"/>
+</details>
+<details>
+    <summary>The Megastar Of Hybrid Team(2021)</summary>
+    <IMG src="./src/5.jpg"/>
+</details>
+<details>
+    <summary>The Megastar Of Hybrid Team(2022)</summary>
+    <IMG src="./src/6.jpg"/>
+</details>
+<details>
+    <summary>Best Efficient Model(2016)</summary>
+    <IMG src="./src/7.jpg"/>
+</details>
+<details>
+    <summary>Other Participation Certificates</summary>
+    <p align='center'>
+        <img src="./src/13.jpg" width="49%"/>
+        <img src="./src/14.jpg" width="49%"/>
+    </p>
+    <p align='center'>
+        <img src="./src/15.jpg" width="32%"/>
+        <img src="./src/16.jpg" width="32%"/>
+        <img src="./src/17.jpg" width="32%"/>
+    </p>
+     <p align='center'>
+        <img src="./src/18.jpg" width="49%"/>
+        <img src="./src/19.jpg" width="49%"/>
+    </p>
+    <p align='center'>
+        <img src="./src/20.jpg" width="32%"/>
+        <img src="./src/21.jpg" width="32%"/>
+        <img src="./src/22.jpg" width="32%"/>
+    </p>
+</details>
+<details>
+    <summary>Non Technical Certificates</summary>
+    <p align='center'>
+        <img src="./src/8.jpg" width="49%"/>
+        <img src="./src/9.jpg" width="49%"/>
+    </p>
+    <IMG src="./src/10.jpg"/>
+    <p align='center'>
+        <img src="./src/11.jpg" width="49%"/>
+        <img src="./src/12.jpg" width="49%"/>
+    </p>
+</details>
+
 
 <!---
 8140375530/8140375530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
