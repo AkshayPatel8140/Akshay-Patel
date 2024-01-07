@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Akshay Patel
 - 🇮🇳 I'm Indian
-- 🏠 I'm from Ahmedabad which is the best city of the Gujarat state
+<!-- - 🏠 I'm from Ahmedabad which is the best city of the Gujarat state -->
 - 👀 I’m React-Native developer
 - 🌱 I’m currently learning TypeScript
-- 📫 You can connect me by send me the mail on the my [Email](akshaysukhadiya41@gmail.com)
+- 📫 You can connect me by send me the mail on the my [Email](akshagpatel1997@gmail.com)
 
 
 ## My projects and the overview of the project and my role in the projects
