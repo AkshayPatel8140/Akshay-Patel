@@ -8,11 +8,11 @@
 
 ## My projects and the overview of the project and my role in the projects
 ### SEEKRZ
-- The app I've been involved in centers around facilitating buying and selling various items such as Clothing[🧥,🥼,👖,🩳], Accessories[🧢] and Footwear [🩴,👞,👠,👟,👡,🥾].
-- Users have the capability to register within the app, enabling them to list their items for sale.
+- The app provides a facility for the buying and selling of various items such as Clothing[🧥,🥼,👖,🩳], Accessories[🧢] and Footwear [🩴,👞,👠,👟,👡,🥾].
+- Users can register within the app, enabling them to list their items for sale.
 - Moreover, they can make offers on items listed by other users and engage in discussions regarding these offers through an in-app chat feature.
 - One standout feature of the app is its provision for users to engage in trades, allowing for item exchanges within the application itself.
-- My involvement commenced with establishing the foundational structure of the project, setting up the groundwork for its functionality.
+- My involvement commenced with establishing the foundational structure of the project and setting up the groundwork for its functionality.
 - Additionally, I oversaw the deployment of the application on both the App Store and Google Play Store, ensuring accessibility for a broader user base across multiple platforms.
 - This application aims to provide a convenient and interactive platform for users to buy, sell, and trade a variety of items while fostering communication through the in-app chat, ultimately enhancing the overall user experience.
 - If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [SEEKRZ iOS](https://apps.apple.com/us/app/seekrz-buy-sell-streetwear/id1496295519) , [SEEKRZ Android](https://play.google.com/store/apps/details?id=com.swappitinc.swappit&pcampaignid=web_share) , [SEEKRZ Store ios](https://apps.apple.com/us/app/seekrz-stores/id1625261820)
