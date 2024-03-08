@@ -7,6 +7,10 @@
 
 
 ## My projects and the overview of the project and my role in the projects
+### PENTAIR
+- This app provides instructions and the real-time monitoring of IoT devices used for Effortless pool care at your fingertips.
+- Redesigned module UI and updated code to align with the new React Native, Reduced app size and increase in user engagement
+
 ### SEEKRZ
 - The app provides a facility for the buying and selling of various items such as Clothing[🧥,🥼,👖,🩳], Accessories[🧢] and Footwear [🩴,👞,👠,👟,👡,🥾].
 - Users can register within the app, enabling them to list their items for sale.
@@ -15,6 +19,9 @@
 - My involvement commenced with establishing the foundational structure of the project and setting up the groundwork for its functionality.
 - Additionally, I oversaw the deployment of the application on both the App Store and Google Play Store, ensuring accessibility for a broader user base across multiple platforms.
 - This application aims to provide a convenient and interactive platform for users to buy, sell, and trade a variety of items while fostering communication through the in-app chat, ultimately enhancing the overall user experience.
+- Drove app responsiveness by implementing memory caching and asynchronous data loading, increased user engagement by 20%.
+- Implemented photo capture feature, storing images locally and uploading them on S3 bucket, optimizing app speed by 30%.
+- Configured Google Analytics, to track user behavior and measure performance metrics, resulting in a 15% increase in average order.
 - If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [SEEKRZ iOS](https://apps.apple.com/us/app/seekrz-buy-sell-streetwear/id1496295519) , [SEEKRZ Android](https://play.google.com/store/apps/details?id=com.swappitinc.swappit&pcampaignid=web_share) , [SEEKRZ Store ios](https://apps.apple.com/us/app/seekrz-stores/id1625261820)
 
 ### SCALE-EVV
@@ -38,6 +45,9 @@
 - My involvement in this project began with establishing the project's structure and laying the groundwork for its functionality and organization.
 - As the project evolved, I focused on crafting a sophisticated user interface and ensuring it became the best user experience.
 - Additionally, I implemented the In-App Purchase feature, potentially offering users access to additional services or features within the app.
+- Engineered a module for seamless transition between online and offline(local storage) mode switching, resulting in a 25% boost in speed.
+- Utilized a secure deep linking using Firebase, ensuring user access to others’ accounts with distinct roles is granted by main user.
+- Developed of custom animations and UI components, achieving a 60% improvement in app smoothness and a 10% reduction in app size.
 - If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [HEIRLIST iOS](https://apps.apple.com/in/app/heirlist/id1517622593) , [HEIRLIST Android](https://play.google.com/store/apps/details?id=com.chiefinnovation.heirlist&pcampaignid=web_share)
 
 ### CHALLENGER
@@ -50,6 +60,8 @@
 - This allows users to communicate efficiently, discussing match details, and strategies, and coordinating game logistics.
 - Furthermore, to broaden accessibility, I've enabled support for multiple languages—English and Arabic—tailoring the app's interface based on the user's language preference.
 - This enhancement enhances user inclusivity, ensuring a comfortable and personalised experience irrespective of language differences.
+- Designed a live countdown feature for matche, real-time timer tracking, improving player experience and gameplay efficiency.
+- Streamlined player communication and boosted engagement by 30% by developing chat modules, minimizing reliance on external apps.
 
 ### JAIMACA - Tours and Travels
 - This application is specifically developed to facilitate taxi services within Jamaica.
@@ -64,7 +76,14 @@
 - One of the key functionalities lies in allowing users to create a localized asynchronous storage database within the app, meticulously structuring it with proper relationships.
 - This feature provides users with a platform to organize and manage their data effectively, ensuring relationships between different elements within the database are well-maintained.
 - In essence, this application serves as a versatile tool for handling and manipulating database files, offering users the ability to import, edit, and export data across different formats while also enabling the creation of local storage databases with structured relationships to streamline data management processes.
+- Developed a multi-format data export solution (.csv, .xlsx, etc.) and report generation capabilities, leveraging DB files for data analysis.
 - If you'd like to see the results of my work, I invite you to explore the live application using the provided links 👉🏻 [SQL Android](https://play.google.com/store/apps/details?id=com.moontechnolabs.SqliteEditor&pcampaignid=web_share)
+
+### i-DETECT (Python, Raspberry-PI, MySQL)
+- Developed a real-time luggage tracking system with Raspberry Pi and Django, enhancing user experience and security during travel.
+- Increased bag security by 70% by designing and implementing a fingerprint authentication system using a Raspberry Pi.
+- Architected and built a Django-based website, focusing on user accessibility and facilitating real-time tracking across diverse platforms.
+
 
 ## Certificates
 
