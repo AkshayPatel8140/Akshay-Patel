@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.81881e3a.css",
-    "main.js": "/react-gh-pages/static/js/main.c13a2b75.js",
-    "static/js/415.4d6acbeb.chunk.js": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
-    "static/media/AkshayPatelResume.pdf": "/react-gh-pages/static/media/AkshayPatelResume.ebd813aeb11ced434011.pdf",
-    "static/media/home-main.svg": "/react-gh-pages/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/react-gh-pages/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/heirList.jpg": "/react-gh-pages/static/media/heirList.eeeabadcd1eec807e121.jpg",
-    "static/media/i_Detect.jpg": "/react-gh-pages/static/media/i_Detect.f254e6d0cc7ca19f2e84.jpg",
-    "static/media/reactNative.jpg": "/react-gh-pages/static/media/reactNative.3a040dec1d00d18a1409.jpg",
-    "static/media/home-bg.jpg": "/react-gh-pages/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.635643de10c6e42b608c.png",
-    "static/media/avatar.svg": "/react-gh-pages/static/media/avatar.3ece12a733e877d92fbc0c3fb219f5e4.svg",
-    "static/media/pre.svg": "/react-gh-pages/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.81881e3a.css.map": "/react-gh-pages/static/css/main.81881e3a.css.map",
-    "main.c13a2b75.js.map": "/react-gh-pages/static/js/main.c13a2b75.js.map",
-    "415.4d6acbeb.chunk.js.map": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Akshay-Patel.github.io/static/css/main.1be49c3d.css",
+    "main.js": "/Akshay-Patel.github.io/static/js/main.48c5ec15.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Akshay-Patel.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Akshay-Patel.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AkshayPatelResume.pdf": "/Akshay-Patel.github.io/static/media/AkshayPatelResume.ebd813aeb11ced434011.pdf",
+    "static/media/home-main.svg": "/Akshay-Patel.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Akshay-Patel.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/heirList.jpg": "/Akshay-Patel.github.io/static/media/heirList.eeeabadcd1eec807e121.jpg",
+    "static/media/i_Detect.jpg": "/Akshay-Patel.github.io/static/media/i_Detect.f254e6d0cc7ca19f2e84.jpg",
+    "static/media/reactNative.jpg": "/Akshay-Patel.github.io/static/media/reactNative.3a040dec1d00d18a1409.jpg",
+    "static/media/home-bg.jpg": "/Akshay-Patel.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/Akshay-Patel.github.io/static/media/logo.635643de10c6e42b608c.png",
+    "static/media/avatar.svg": "/Akshay-Patel.github.io/static/media/avatar.3ece12a733e877d92fbc0c3fb219f5e4.svg",
+    "static/media/pre.svg": "/Akshay-Patel.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Akshay-Patel.github.io/index.html",
+    "main.1be49c3d.css.map": "/Akshay-Patel.github.io/static/css/main.1be49c3d.css.map",
+    "main.48c5ec15.js.map": "/Akshay-Patel.github.io/static/js/main.48c5ec15.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Akshay-Patel.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Akshay-Patel.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81881e3a.css",
-    "static/js/main.c13a2b75.js"
+    "static/css/main.1be49c3d.css",
+    "static/js/main.48c5ec15.js"
   ]
 }
