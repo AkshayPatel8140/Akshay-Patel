@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Akshay-Patel/static/css/main.63420802.css",
-    "main.js": "/Akshay-Patel/static/js/main.646e8a0a.js",
+    "main.js": "/Akshay-Patel/static/js/main.672854ac.js",
     "static/js/415.4d6acbeb.chunk.js": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js",
     "static/media/AkshayPatelResume.pdf": "/Akshay-Patel/static/media/AkshayPatelResume.ebd813aeb11ced434011.pdf",
     "static/media/home-main.svg": "/Akshay-Patel/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/scaleEvv.jpg": "/Akshay-Patel/static/media/scaleEvv.fcfc5e168ee6fe53d030.jpg",
     "static/media/about.png": "/Akshay-Patel/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/heirList.jpg": "/Akshay-Patel/static/media/heirList.eeeabadcd1eec807e121.jpg",
     "static/media/i_Detect.jpg": "/Akshay-Patel/static/media/i_Detect.f254e6d0cc7ca19f2e84.jpg",
@@ -16,12 +17,12 @@
     "static/media/pre.svg": "/Akshay-Patel/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Akshay-Patel/index.html",
     "main.63420802.css.map": "/Akshay-Patel/static/css/main.63420802.css.map",
-    "main.646e8a0a.js.map": "/Akshay-Patel/static/js/main.646e8a0a.js.map",
+    "main.672854ac.js.map": "/Akshay-Patel/static/js/main.672854ac.js.map",
     "415.4d6acbeb.chunk.js.map": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63420802.css",
-    "static/js/main.646e8a0a.js"
+    "static/js/main.672854ac.js"
   ]
 }
