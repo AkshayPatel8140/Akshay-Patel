@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Akshay-Patel/static/css/main.3dbd54c1.css",
-    "main.js": "/Akshay-Patel/static/js/main.6f7774cd.js",
+    "main.js": "/Akshay-Patel/static/js/main.5cd2328f.js",
     "static/js/415.4d6acbeb.chunk.js": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AAA.jpeg": "/Akshay-Patel/static/media/AAA.6fa8a9b8694faaf84a64.jpeg",
     "static/media/home-main.svg": "/Akshay-Patel/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/scaleEvv.jpg": "/Akshay-Patel/static/media/scaleEvv.fcfc5e168ee6fe53d030.jpg",
     "static/media/about.png": "/Akshay-Patel/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -17,12 +18,12 @@
     "static/media/pre.svg": "/Akshay-Patel/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Akshay-Patel/index.html",
     "main.3dbd54c1.css.map": "/Akshay-Patel/static/css/main.3dbd54c1.css.map",
-    "main.6f7774cd.js.map": "/Akshay-Patel/static/js/main.6f7774cd.js.map",
+    "main.5cd2328f.js.map": "/Akshay-Patel/static/js/main.5cd2328f.js.map",
     "415.4d6acbeb.chunk.js.map": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3dbd54c1.css",
-    "static/js/main.6f7774cd.js"
+    "static/js/main.5cd2328f.js"
   ]
 }
