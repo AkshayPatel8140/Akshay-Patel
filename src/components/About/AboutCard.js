@@ -10,9 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone,
             <br />
-            My name is <span className="purple">Akshay Patel </span> and I am originally from Gujarat, India. I am currently pursuing a <span className="purple">Master of Science in Computer Science (MSCS)</span> at San Francisco Bay University in California.
+            My name is <span className="purple">Akshay Patel </span> and I am originally from Gujarat, India. I am recently completed a <span className="purple">Master of Science in Computer Science (MSCS)</span> from San Francisco Bay University in California.
             <br />
-            I bring over <span className="purple">4.5 years</span> of experience as a <span className="purple">Software Developer</span>, specializing in React-Native development. During my tenure at e-infochips Private Limited, I honed my skills in mobile application development, working on numerous projects that have significantly enhanced my expertise in this field.
+            I bring over <span className="purple">4.5 years</span> of experience as a <span className="purple">Software Developer</span>, specializing in Backend development and Mobile application Development. During my tenure at e-infochips Private Limited, I honed my skills in mobile application development, working on numerous projects that have significantly enhanced my expertise in this field.
             <br />
             I hold a Bachelor's degree in <span className="purple">Information Technology</span> from Gujarat Technical University, which I completed in 2019.
             <br />

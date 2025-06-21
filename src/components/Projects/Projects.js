@@ -22,8 +22,8 @@ function Projects() {
               isBlog={false}
               title="AI Academic Advisor"
               description="The AI Academic Advisor is an AI-powered recommendation system that provides personalized academic and career guidance to students by analyzing their academic history, preferences, and engagement patterns. It features a hybrid recommendation engine that integrates content-based, collaborative, and knowledge-based filtering to generate adaptive course and career suggestions. Backend services, built with Flask, manage session handling, recommendation logic, and sentiment analysis using transformer-based NLP models, while LSTM models predict student engagement levels. Data is stored in PostgreSQL and MongoDB, optimized for performance through indexing and sharding. A responsive React frontend delivers an intuitive user experience, complete with a real-time chatbot that assists users in navigating course plans and academic decisions. The system achieved significant improvements in response time and recommendation accuracy and is designed for scalability and seamless integration with broader educational platforms."
-              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              // demoLink="https://blogs.soumya-jit.tech/"
+              // ghLink="https://github.com/"
+              demoLink="https://youtu.be/EvGvcQq2ZGo?si=ugF0ImMPN5OHt7Oa"
               appLikes={[]}
             />
           </Col>
@@ -33,11 +33,9 @@ function Projects() {
               isBlog={false}
               title="SEEKRZ"
               description="The Seekers App is a versatile platform for buying, selling, and trading items such as clothing, accessories, and footwear. My role began with establishing the project's foundation and initial functionality. I led the deployment on both the App Store and Google Play Store, ensuring wide accessibility. To enhance performance, I implemented memory caching and asynchronous data loading, which increased user engagement by 20%. Additionally, I introduced a photo capture feature with local storage and S3 bucket integration, improving app speed by 30%. I also configured Google Analytics to track user behavior and performance metrics, resulting in a 15% increase in the average order rate. The app's standout feature is its in-app chat, which facilitates communication and negotiations between users, providing a seamless and interactive user experience."
-              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              // demoLink="https://blogs.soumya-jit.tech/"
               appLikes={[
                 {
-                  name: 'iOS App', 
+                  name: 'iOS App',
                   type: 'ios',
                   link: 'https://apps.apple.com/us/app/seekrz-buy-sell-streetwear/id1496295519'
                 },
@@ -60,8 +58,6 @@ function Projects() {
               isBlog={false}
               title="SCALE-EVV"
               description="The Scale EVV mobile app streamlines the caregiving process by enabling caregivers to submit paperless timesheets, communicate with their agency, and access client care plans and information directly from the app. Key features include electronic timesheet submission, allowing both clients and caregivers to sign timesheets digitally, and instant timesheet delivery to the agency portal. Caregivers can view care plans and schedules, and contact their agency via call or message within the app. The cloud-based Scale EVV Software empowers agencies to operate efficiently from anywhere, helping them to scale their operations and serve more clients effectively, ultimately ensuring the highest quality of care."
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
-              // demoLink="https://editor.soumya-jit.tech/"
               appLikes={[
                 {
                   name: 'iOS App',

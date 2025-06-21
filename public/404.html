@@ -6,7 +6,12 @@
     <title>Redirecting...</title>
     <script>
         // Redirect all paths served as 404 to the SPA entry point
-        window.location.replace('/Akshay-Patel/index.html');
+        // window.location.replace('/Akshay-Patel/index.html');
+        var url = '/Akshay-Patel/index.html' + location.search + location.hash;
+        if (location.pathname !== '/Akshay-Patel/404.html') {
+            url += '?redirect=' + encodeURIComponent(location.pathname);
+        }
+        window.location.replace(url);
     </script>
 </head>
 

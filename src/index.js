@@ -4,6 +4,12 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
+const params = new URLSearchParams(window.location.search);
+const redirect = params.get("redirect");
+if (redirect) {
+  window.history.replaceState(null, "", redirect + window.location.hash);
+}
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -21,34 +21,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              - I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              - I fell in love with programming, and along the way, I've built, broken, and learned a lot more than “just something.” 😄
               <br />
-              - Passionate about leveraging technology to solve real-world problems
+              - Passionate about leveraging technology to solve real-world problems with a focus on <b className="purple">impact</b>, <b className="purple">scale</b>, and <b className="purple">simplicity</b>.
               <br />
-              - I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript, TypeScript and Go. </b>
-              </i>
+              - Fluent in <b className="purple">Python</b>, <b className="purple">JavaScript</b>, <b className="purple">TypeScript</b>, and <b className="purple">React</b> — comfortable moving across the stack and into systems programming when needed.
               <br />
-              - Experienced in Python development, deep learning, and software engineering with a focus on developing scalable solutions.
+              - Experienced in <b className="purple">AI/ML development</b> (transformers, LangChain, OpenCV), <b className="purple">full-stack engineering</b>, and building scalable, <b className="purple">distributed systems</b>.
               <br />
-              - Proven track record in <b className="purple">distributed systems</b>, <b className="purple">IoT</b>, and <b className="purple">mobile app development</b>.
+              - Proven track record in edge computing, IoT automation, and <b className="purple">mobile App development</b> with React Native and serverless backends.
               <br />
-              - Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              - I prefer building with Node.js, Next.js, and the modern React ecosystem, optimizing for SSR, <b className="purple">API efficiency</b>, and <b className="purple">seamless UX</b> across devices.
               <br />
-              - Adept at working in collaborative environments and committed to continuous learning and innovation.
+              - Deeply collaborative, fast-learning, and constantly exploring new paradigms from <b className="purple">LLM pipelines</b> and <b className="purple">agent-based systems</b> to realtime collaboration and multi-modal UX.
               <br />
               <br />
               * Seeking opportunities to apply my skills and knowledge in dynamic and impactful projects.
