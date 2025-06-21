@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Akshay-Patel/static/css/main.3dbd54c1.css",
-    "main.js": "/Akshay-Patel/static/js/main.8492a1cc.js",
+    "main.css": "/Akshay-Patel/static/css/main.c4c4dc93.css",
+    "main.js": "/Akshay-Patel/static/js/main.06251051.js",
     "static/js/415.4d6acbeb.chunk.js": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/Akshay-Patel/static/media/avatar.5e199346566a59c0b556.png",
     "static/media/home-main.svg": "/Akshay-Patel/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/scaleEvv.jpg": "/Akshay-Patel/static/media/scaleEvv.fcfc5e168ee6fe53d030.jpg",
     "static/media/about.png": "/Akshay-Patel/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -14,16 +15,15 @@
     "static/media/reactNative.jpg": "/Akshay-Patel/static/media/reactNative.3a040dec1d00d18a1409.jpg",
     "static/media/home-bg.jpg": "/Akshay-Patel/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/Akshay-Patel/static/media/logo.635643de10c6e42b608c.png",
-    "static/media/avatar.svg": "/Akshay-Patel/static/media/avatar.3ece12a733e877d92fbc0c3fb219f5e4.svg",
     "static/media/pre.svg": "/Akshay-Patel/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Akshay-Patel/index.html",
-    "main.3dbd54c1.css.map": "/Akshay-Patel/static/css/main.3dbd54c1.css.map",
-    "main.8492a1cc.js.map": "/Akshay-Patel/static/js/main.8492a1cc.js.map",
+    "main.c4c4dc93.css.map": "/Akshay-Patel/static/css/main.c4c4dc93.css.map",
+    "main.06251051.js.map": "/Akshay-Patel/static/js/main.06251051.js.map",
     "415.4d6acbeb.chunk.js.map": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dbd54c1.css",
-    "static/js/main.8492a1cc.js"
+    "static/css/main.c4c4dc93.css",
+    "static/js/main.06251051.js"
   ]
 }
