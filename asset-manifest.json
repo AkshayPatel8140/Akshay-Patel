@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Akshay-Patel/static/css/main.c4c4dc93.css",
-    "main.js": "/Akshay-Patel/static/js/main.06251051.js",
+    "main.js": "/Akshay-Patel/static/js/main.3746ce53.js",
     "static/js/415.4d6acbeb.chunk.js": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.png": "/Akshay-Patel/static/media/avatar.5e199346566a59c0b556.png",
+    "static/media/AkshayPatel_Resume.pdf": "/Akshay-Patel/static/media/AkshayPatel_Resume.3077dc9fbf0e56efd4cd.pdf",
     "static/media/home-main.svg": "/Akshay-Patel/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/scaleEvv.jpg": "/Akshay-Patel/static/media/scaleEvv.fcfc5e168ee6fe53d030.jpg",
     "static/media/about.png": "/Akshay-Patel/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/AkshayPatel_Resume.pdf": "/Akshay-Patel/static/media/AkshayPatel_Resume.b7a730765a2fb87d97fe.pdf",
     "static/media/AAA2.jpg": "/Akshay-Patel/static/media/AAA2.527de7f018f8f780321b.jpg",
     "static/media/heirList.jpg": "/Akshay-Patel/static/media/heirList.eeeabadcd1eec807e121.jpg",
     "static/media/i_Detect.jpg": "/Akshay-Patel/static/media/i_Detect.f254e6d0cc7ca19f2e84.jpg",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/Akshay-Patel/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Akshay-Patel/index.html",
     "main.c4c4dc93.css.map": "/Akshay-Patel/static/css/main.c4c4dc93.css.map",
-    "main.06251051.js.map": "/Akshay-Patel/static/js/main.06251051.js.map",
+    "main.3746ce53.js.map": "/Akshay-Patel/static/js/main.3746ce53.js.map",
     "415.4d6acbeb.chunk.js.map": "/Akshay-Patel/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Akshay-Patel/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4c4dc93.css",
-    "static/js/main.06251051.js"
+    "static/js/main.3746ce53.js"
   ]
 }
